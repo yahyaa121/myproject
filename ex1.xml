@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <Eaux>
+    <Bouteille>
+        <Marque>Cristalline</Marque>
+        <Contenance>150 cl</Contenance>
+        <Ions>
+            <Calcium>71 mg/l</Calcium>
+            <Magnesium>5.5 mg/l</Magnesium>
+            <Chlorures>20 mg/l</Chlorures>
+            <Nitrates>1 mg/l</Nitrates>
+        </Ions>
+        <Source>St-Cyr la Source</Source>
+        <Departement>Loiret</Departement>
+        <CodeBarre>3274080005003</CodeBarre>
+        <pH>7.45</pH>
+        <Impuretes>
+            <Materiaux>Fer</Materiaux>
+        </Impuretes>
+    </Bouteille>
